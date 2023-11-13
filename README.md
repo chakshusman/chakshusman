@@ -20,4 +20,4 @@ From building visulizations to deep learning, I thrive on the cutting edge. A co
 
 🚀 Let's Code the Future!
 
-Open to new opportunities and collaborations. Reach me at 📧 chakshusman@gmail.com or connect on 🌐 LinkedIn. Explore my coding adventures on 🚀 GitHub.
+Open to new opportunities and collaborations. Reach me at 📧 chakshusman@gmail.com or connect on 🌐 [LinkedIn]([url](https://www.linkedin.com/in/chaksmishra/)). Explore my coding adventures on 🚀 GitHub.
