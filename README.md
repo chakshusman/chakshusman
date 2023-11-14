@@ -1,10 +1,10 @@
 🚀 Data Alchemist | Code Connoisseur 🤖💻
 
-Greetings! I'm on a mission to transform bits into insights, graduated with my Master's in Data Science at Indiana University. From Boston to Chennai, I've coded through diverse landscapes, mastering data mining, statistics, machine learning, data visualization, and data engineering.
+Greetings! I'm on a mission to transform bits into insights, graduated with my Master's in Data Science at Indiana University.I've coded through diverse landscapes, mastering data mining, statistics, machine learning, data visualization, and data engineering.
 
 🌐 Digital Explorer
 
-Crafting robust ETL/ELT pipelines and dynamic Tableau dashboards is my forte. As a Data Scientist, I thrive on turning crises into opportunities, analyzing Twitter data, and implementing advanced topic models.
+Crafting robust ETL/ELT pipelines and dynamic Tableau dashboards is my forte. As a Data Scientist, I thrive on turning crises into opportunities, analyzing text data, and implementing advanced topic models.
 
 🎨 Visual Symphony Composer
 
@@ -16,7 +16,7 @@ With RoBERTa and BERT, I decode data secrets. Every data point has a story, and 
 
 🌱 Constant Learner | Fearless Innovator
 
-From building visulizations to deep learning, I thrive on the cutting edge. A constant learner, I embrace challenges, break barriers, and evolve with every line of code.
+From building visualizations to deep learning, I thrive on the cutting edge. A constant learner, I embrace challenges, break barriers, and evolve with every line of code.
 
 🚀 Let's Code the Future!
 
